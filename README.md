@@ -1,4 +1,6 @@
-## Oiii eu sou o Marcelo Junior, criador de conteúdo de programação, tecnologia e excel!
+## Oiii eu sou o Marcelo Junior,27 anos, criador de conteúdo de programação, Desenvolvedor Full Stack, amante do DevOps e excel!
+- :blue_heart: Stack: ReactJS, Node, Html5, Css3 & React Native
+- :books: Estudando: Java,Php e Python
 <div align="center">
   <a href="https://github.com/marcelinho21junior">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelinho21junior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
